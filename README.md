@@ -1,16 +1,3 @@
-<div dsplay="inline-block">
-
-  </a> 
-  <a href="https://twitter.com/LuisDavell">
-    <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/2534px-Twitter_logo_2012.svg.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/luis-davel/">
-    <img width="80px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
-
-</br>
-</br>
 
 ## Hello, Devs!!
 
@@ -27,11 +14,11 @@ Adoro programação Web apesar de ainda ter um conhecimento muito iniciante.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title = "Next"/></code>                           
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESS"/></code>
-
 </br>
 </br>
 <div display="inline-block">
