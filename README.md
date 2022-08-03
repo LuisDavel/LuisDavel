@@ -43,3 +43,6 @@ Adoro programação Web apesar de ainda haver muito o que aprender ainda.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisDavel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+##
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
