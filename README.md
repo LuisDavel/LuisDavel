@@ -28,7 +28,7 @@ Adoro programação Web apesar de ainda haver muito o que aprender.
  <p align="left">📚 Atualmente me encontro nos estudos do RoadMap de front-end da <a href="https://roadmap.sh/frontend">roadmap.sh</a>;</p>
  <p align="left">☕🎮 Amo café, e sou amante dos games.</p>
 </div>
-<div display="inline-block">
+<div align="center">
 <h3> Redes Sociais </h3>
 <a href="https://www.instagram.com/luisdavel/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <a href="https://twitter.com/LuisDavell" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
@@ -37,12 +37,12 @@ Adoro programação Web apesar de ainda haver muito o que aprender.
  </br>
  
 ##
-<p align="center">
+<div align="center">
 <a href="https://github.com/LuisDavel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuisDavel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisDavel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</div>
 
 ##
 ![Snake animation](https://github.com/LuisDavel/LuisDavel/blob/output/github-contribution-grid-snake.svg)
