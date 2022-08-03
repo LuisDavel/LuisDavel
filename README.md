@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**LuisDavel/LuisDavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div dsplay="inline-block">
 
  <h1 align="left">Luis Davel</h1>
@@ -34,35 +17,30 @@ Here are some ideas to get you started:
 
 ## Hello, Devs!!
 
-Tenho 29 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e felinos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 22 anos, moro em Criciuma/SC,
+Adoro programação Web apesar de ainda ter um conhecimento muito iniciante. 
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem6.gif width="350">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
-
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte do Scuba Team da <a href="https://www.alura.com.br/">Alura</a>;</p>
- <p align="left">📚 Tenho estudado Java e iniciei meus estudos para desenvolver apps para Android;</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <p align="left">📚 Atualmente me encontro nos estudos do RoadMap de front-end da <a href="https://roadmap.sh/frontend">roadmap.sh</a>;</p>
+ <p align="left">☕🎮 Amo café, e sou amante dos games.</p>
 </div>
-
-
-
 </br>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
