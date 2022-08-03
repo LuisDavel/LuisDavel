@@ -22,22 +22,24 @@ Adoro programação Web apesar de ainda haver muito o que aprender.
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESS"/></code>
  </div>
- 
 </br>
 </br>
-
 <div display="inline-block">
  <p align="left">📚 Atualmente me encontro nos estudos do RoadMap de front-end da <a href="https://roadmap.sh/frontend">roadmap.sh</a>;</p>
  <p align="left">☕🎮 Amo café, e sou amante dos games.</p>
 </div>
-
-<div align="center">
+<div display="flex" justify-content="center" align="center">
 <h3> Redes Sociais </h3>
-<code><a href="https://www.instagram.com/luisdavel/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a></code>
-<code><a href="https://twitter.com/LuisDavell" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a></code>
-<code><a href="https://www.linkedin.com/in/luis-davel/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a></code>
+<a href="https://www.instagram.com/luisdavel/" target="_blank">
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+</a>
+<a href="https://twitter.com/LuisDavell" target="_blank">
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/luis-davel/" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+ </a>
 </div>
- 
  </br>
  
 ##
