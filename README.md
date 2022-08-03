@@ -1,7 +1,7 @@
 
 ## Hello, Devs!!
 
-Tenho 22 anos, moro em Criciuma/SC,
+Tenho 22 anos, moro em Criciuma/SC, </br>
 Adoro programação Web apesar de ainda haver muito o que aprender ainda.
 
 <p align="center">
