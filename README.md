@@ -34,6 +34,7 @@ Adoro programação Web apesar de ainda haver muito o que aprender ainda.
 <a href="https://www.linkedin.com/in/luis-davel/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
  </div>
  </br>
+ 
 ##
 <p align="center">
 <a href="https://github.com/LuisDavel">
