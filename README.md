@@ -28,11 +28,12 @@ Adoro programação Web apesar de ainda haver muito o que aprender ainda.
  <p align="left">☕🎮 Amo café, e sou amante dos games.</p>
 </div>
 <div display="inline-block">
-<h3> Redes Sociais </h3>
-<a href="https://www.instagram.com/luisdavel/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/LuisDavell" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/luis-davel/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
- </div>
+  <h3> Redes Sociais </h3>
+  <a href="https://www.instagram.com/luisdavel/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-   repos/blob/master/insta.svg" />
+  <a href="https://twitter.com/LuisDavell" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+  <a href="https://www.linkedin.com/in/luis-davel/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+</div>
+</br>
   
 ##
 <p align="center">
