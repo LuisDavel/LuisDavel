@@ -9,6 +9,7 @@ Adoro programação Web apesar de ainda haver muito o que aprender ainda.
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
+</br>
 <div align="center">
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
