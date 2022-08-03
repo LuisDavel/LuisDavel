@@ -28,7 +28,7 @@ Adoro programação Web apesar de ainda haver muito o que aprender.
  <p align="left">📚 Atualmente me encontro nos estudos do RoadMap de front-end da <a href="https://roadmap.sh/frontend">roadmap.sh</a>;</p>
  <p align="left">☕🎮 Amo café, e sou amante dos games.</p>
 </div>
-<div display="flex" justify-content="center" align-items="center">
+<p align="center">
 <h3> Redes Sociais </h3>
 <a href="https://www.instagram.com/luisdavel/" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
@@ -39,7 +39,7 @@ Adoro programação Web apesar de ainda haver muito o que aprender.
 <a href="https://www.linkedin.com/in/luis-davel/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
  </a>
-</div>
+</p>
  </br>
  
 ##
