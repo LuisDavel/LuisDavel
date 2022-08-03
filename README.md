@@ -2,7 +2,7 @@
 ## Hello, Devs!!
 
 Tenho 22 anos, moro em Criciuma/SC, </br>
-Adoro programação Web apesar de ainda haver muito o que aprender ainda.
+Adoro programação Web apesar de ainda haver muito o que aprender.
 
 <p align="center">
   <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem6.gif" width="350">
