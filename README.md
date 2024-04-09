@@ -50,5 +50,3 @@ Adoro programação Web apesar de ainda haver muito o que aprender.
 </a>
 </div>
 
-##
-![Snake animation](https://github.com/LuisDavel/LuisDavel/blob/output/github-contribution-grid-snake.svg)
