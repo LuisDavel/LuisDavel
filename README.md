@@ -1,7 +1,7 @@
 
 ## Hello, Devs!!
 
-Tenho 22 anos, moro em Criciuma/SC, </br>
+Tenho 25 anos, moro em Criciuma/SC, </br>
 Adoro programação Web apesar de ainda haver muito o que aprender.
 
 <p align="center">
@@ -26,7 +26,7 @@ Adoro programação Web apesar de ainda haver muito o que aprender.
 </br>
 <div display="inline-block">
  <p align="left">📚 Atualmente me encontro nos estudos do RoadMap de front-end da <a href="https://roadmap.sh/frontend">roadmap.sh</a>;</p>
- <p align="left">☕🎮 Amo café, e sou amante dos games.</p>
+ <p align="left">☕ Amo café.</p>
 </div>
 <p align="center">
 <h3> Redes Sociais </h3>
